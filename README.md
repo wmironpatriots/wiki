@@ -10,12 +10,13 @@ For any questions regarding pages in this repository, please contact the current
 If you have no prior FRC programming expirence, we recommend that you start by reading through the Learning Course. The course serves as a comprehensive guide to FRC programming and is designed to onboard members with almost zero knowledge.
 
 ## Contents
-* Learning Course (WIP)
-    <!-- * [Preface [Start Here!]](learning_course/abc123.md) -->
-    * [Section A: Java](learning_course/section_a/abc123.md):
-        * [A.1 Java 101](learning_course/section_a/Java101.md)
-        * [A.1 Java 102](learning_course/section_a/Java102.md)
-    * Section B (releasing 10/25/25)
-* Tools
-    * [Setting up tools](tools/setup_guide.md)
-    * [A Guide to File Systems and the Command-line Interface](tools/fs_cli.md)
+### ***Learning Course (WIP)***
+<!-- * [Preface [Start Here!]](learning_course/abc123.md) -->
+* [Section A: Java](learning_course/section_a/abc123.md):
+    * [A.1 Java 101](learning_course/section_a/Java101.md)
+    * [A.1 Java 102](learning_course/section_a/Java102.md)
+* Section B (releasing 10/25/25)
+---
+### ***Tools***
+* [Setting up tools](tools/setup_guide.md)
+* [A Guide to File Systems and the Command-line Interface](tools/fs_cli.md)
