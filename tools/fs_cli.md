@@ -283,3 +283,6 @@ The difference command is a ***UNIX SYSTEM ONLY*** command used to check the dif
 ```Bash
 [~]$ fc ./data_expected.txt ./data_actual.txt
 ```
+---
+---
+#### [Previous Page In Tools: Setup Guide](setup_guide.md) | [Home Page](../README.md)
