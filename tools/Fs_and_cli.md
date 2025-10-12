@@ -88,8 +88,12 @@ In this section we will go over the following commands
 
 For simplicity, the prompt will be simplified to `[~/]$` from now on, only showing the current directory.
 
+---
+
 ### `clear`
 The `clear` command clears all text currently in the terminal.
+
+---
 
 ### `pwd`
 The **p**rint **w**orking **d**irectory command prints the **absolute path** of the directory you are currently in. 
@@ -98,6 +102,8 @@ The **p**rint **w**orking **d**irectory command prints the **absolute path** of 
 [~/documents]$ pwd
 /home/dabeycorn/documents/
 ```
+
+---
 
 ### `ls`
 The list command lists all files and directories in your current working directory.
@@ -129,6 +135,8 @@ drwxr-xr-x 2 user group 4096 May 25 10:45 memes
 
 If you wish to learn more about `ls`, you can check out the [wikipedia page](https://en.wikipedia.org/wiki/Ls)
 
+---
+
 ### `cd`
 The **c**hange **d**irectory command is used to change the user's working directory. By inputing a path, the user can move to whatever directory they want
 
@@ -143,6 +151,8 @@ The cool thing about `cd` is that it works for any sort of path, meaning both **
 [~/documents]$ cd ./memes # here we are inside the documents folder, so we just use the relative path `./memes` to go inside ~/documents/memes
 ```
 
+---
+
 ### `mkdir`
 The make directory command is a ***UNIX SYSTEMS ONLY (Mac or Linux)*** command that allows you to create directories. Simply specify the name of the directory, and you can create it
 
@@ -152,6 +162,8 @@ The make directory command is a ***UNIX SYSTEMS ONLY (Mac or Linux)*** command t
 homework    memes   lab_report.pdf
 ```
 
+---
+
 ### `touch`
 The `touch` command can be used to create files.
 
@@ -160,6 +172,8 @@ The `touch` command can be used to create files.
 [~]$ ls
 documents   downloads   music   hello_world.c
 ```
+
+---
 
 ### `echo >`
 Annoyingly, windows does not have the touch command. Instead, you will have to use the `echo` command to create files in terminal. Normally running `echo` with an arguement will just spit back that arguement as output:
@@ -183,6 +197,8 @@ InputObject[0]: # press enter again here
 documents   downloads   music   hello_world.c
 ```
 
+---
+
 ### ```cat```
 The concatenate command can be used to display the contents of a file
 
@@ -196,6 +212,8 @@ int main()
     return 0;
 }
 ```
+
+---
 
 ### ```cp```
 The copy command is a ***UNIX SYSTEMS ONLY (Mac and Linux)*** a command that can be used to copy files.
@@ -218,6 +236,8 @@ documents   downloads   music   hello_world.c
 lab_report.pdf  memes   homework    music   
 ```
 
+---
+
 ### `robocopy`
 The robust copy command is the windows equivalent of the `cp` command.
 
@@ -226,12 +246,16 @@ The robust copy command is the windows equivalent of the `cp` command.
 [~]$ robocopy ./music ./documents # notice how you don't need flag to copy directories
 ```
 
+---
+
 ### `mv`
 The `cp`/`robocopy` command only creates a copy of a file or directory. We can move instead of just cloning files and directories by using the move command.
 
 ```Bash
 [~]$ mv ./hello_world.c ./documents # again no -r flag is needed
 ```
+
+---
 
 ### `rm`
 The remove command can be used to permanently delete files or directories.
@@ -241,12 +265,17 @@ The remove command can be used to permanently delete files or directories.
 [~]$ rm -rf ./music # removing directory, need the -r flag. The -f flag makes it so it just deletes every file in there without asking if you want to keep them.
 ```
 
+---
+
 ### `diff`
 The difference command is a ***UNIX SYSTEM ONLY*** command used to check the difference between two files.
 
 ```Bash
 [~]$ diff ./data_expected.txt ./data_actual.txt
 ```
+
+---
+
 
 ### `fc.exe`
 `fc.exe` is the windows equivalent of the `diff` command.
