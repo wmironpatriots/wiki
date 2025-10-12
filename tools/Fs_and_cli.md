@@ -12,20 +12,20 @@ Here is an example file system of a computer
 ```Bash
 # The File System starts at the root directory, the directory that contains all files and subdirectories aka the top level directory
 /
-    bin/ 
-    var/
+    📁 bin/ 
+    📁 var/
     ...                         # < ----- Here we skip a few lines
-    home/
-        dabeycorn/              # < ----- This is a user directory    
-            documents/
+    📁 home/
+        📁 dabeycorn/              # < ----- This is a user directory    
+            📁 documents/
                 lab_report.pdf
-                memes/
+                📁 memes/
                     funny.png
                 ...
-            downloads/
+            📁 downloads/
                 virus.exe
                 ...
-            music/
+            📁 music/
                 megalovania.mp3
                 never_gonna_give_you_up.mp3
                 ...
