@@ -20,3 +20,4 @@ If you have no prior FRC programming expirence, we recommend that you start by r
 ### ***Tools***
 * [Setting up tools](tools/setup_guide.md)
 * [A Guide to File Systems and the Command-line Interface](tools/fs_cli.md)
+<!-- * A Guide to Git and Version Control -->
