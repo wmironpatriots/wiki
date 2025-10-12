@@ -14,3 +14,5 @@ If you have no prior FRC programming expirence, we recommend that you start by r
         * [A.1 Java 101](learning_course/section_a/Java101.md)
         * [A.1 Java 102](learning_course/section_a/Java102.md)
     * Section B (releasing 10/25/25)
+* Tools
+    * A Guide to File Systems and the Command-line Interface
