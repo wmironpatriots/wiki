@@ -12,6 +12,8 @@ The offical WPIlib development environment comes with
  
 The dev env can be installed by following [***THIS GUIDE***](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) in their documentation. 
 
+If you're new to VScode, try watching this [video by Fireship](https://www.youtube.com/watch?v=KMxo3T_MTvY)
+
 ## The Java Development Kit
 ![img_info](../images/adoptium_banner.png)
 
