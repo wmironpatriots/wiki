@@ -9,8 +9,8 @@ If you have no prior FRC programming expirence, we recommend that you start by r
 
 ## Contents
 * Learning Course (WIP)
-    * [Preface [Start Here!]](learning_course/abc123.md)
-    * [Section A](learning_course/section_a/abc123.md):
-        * [Java 101: Basic Java](learning_course/section_a/Java101.md)
-        * [Java 102: Advanced Java](learning_course/section_a/Java102.md)
+    <!-- * [Preface [Start Here!]](learning_course/abc123.md) -->
+    * [Section A: Java](learning_course/section_a/abc123.md):
+        * [A.1 Java 101](learning_course/section_a/Java101.md)
+        * [A.1 Java 102](learning_course/section_a/Java102.md)
     * Section B (releasing 10/25/25)
