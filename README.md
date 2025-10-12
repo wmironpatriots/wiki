@@ -1,5 +1,7 @@
 # wiki
-Welcome to 6423 Software Team's interal wiki, providing essential guides and documentations for the current season.
+Welcome to 6423 Software Team's interal wiki, providing essential guides and documentations for the current season!
+
+![img_info](images/banner.png)
 
 For any questions regarding pages in this repository, please contact the current head mainter:
 * @dabeycorn ~ Dasun L. Abeykoon (Dasun20202020@gmail.com)
