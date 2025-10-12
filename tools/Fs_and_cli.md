@@ -72,6 +72,20 @@ When typing in a command, pressing tab will auto complete to the command closets
 Pressing up and down arrows will let you navigate through the commands that you've previously run. Pressing cntrl + r will allow you to search through the commands you've already run by typing.
 
 ## Basic CLI Commands
+In this section we will go over the following commands
+* `clear` (must know)
+* `pwd` (must know)
+* `ls` (must know)
+* `cd` (must know)
+* `mkdir` (must know)
+* `touch` or `echo >` (must know)
+* `cat`
+* `cp`
+* `robocopy`
+* `mv`
+* `rm`
+* `diff` or `fc.exe`
+
 For simplicity, the prompt will be simplified to `[~/]$` from now on, only showing the current directory.
 
 ### `clear`
