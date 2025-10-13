@@ -1,6 +1,6 @@
 # Java 101
 ## Prerequisite
-Before starting this section, you should fullfill these requirements:
+Before starting this section, you should read these two pages:
 * [WPIlib VScode & JDK Installed](../../tools/setup_guide.md)
 * [Command-Line Interface (CLI) Navigation](../../tools/fs_cli.md)
 
@@ -90,4 +90,11 @@ Now that was a lot of information, but here's what you need to remember:
 
 ---
 ### Data Types and Variables
+Lets take a look at some code
+```Java
+public class VariablesAndTypes
+```
 
+---
+---
+#### [Home Page](../README.md) | [Next Up: A.2 Java102](./Java102.md)
