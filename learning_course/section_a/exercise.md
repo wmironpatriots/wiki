@@ -1,6 +1,6 @@
 # Java Exercises
 ###### [Go back to Section A Preface](./abc123.md)
-To gauge your understanding of Java, complete at least one easy challenge and one hard challenge. Submit your code in a zip if it has many files.
+To gauge your understanding of Java, **complete at least one easy challenge** and one hard challenge. Submit your code in a zip if it has many files.
 
 Remember to follow the **three practices** in the [preface section](../abc123.md)
 
@@ -100,4 +100,4 @@ javac *.java && java EvaluationTest
 
 ---
 ---
-#### [Home Page](../../README.md) | [Next Up: Java Quiz](./quiz.md)
+#### [Home Page](../../README.md)

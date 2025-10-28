@@ -12,13 +12,13 @@ If you have no prior FRC programming expirence, we recommend that you start by r
 ## Contents
 ### ***Learning Course (WIP)***
 - [Preface [Start Here!]](learning_course/abc123.md)
-* [Section A: Java](learning_course/section_a/abc123.md):
-    * [A.1 Java Exercise](learning_course/section_a/exercise.md)
-    * [A.2 Concepts Quiz](learning_course/section_a/quiz.md)
-- Section B (releasing 10/25/25)
+    * [Section A: Java](learning_course/section_a/abc123.md):
+        * [A.1 Java Exercise](learning_course/section_a/exercise.md)
+    - Section B (releasing 10/25/25)
 ---
 ### ***Tools***
 ###### Guides for the various tools we use
 * [The WPIlib Development Environment](tools/setup_guide.md)
 * [A Guide to File Systems and the Command-line Interface](tools/fs_cli.md)
+* [Git and GitHub](tools/git.md)
 <!-- * A Guide to Git and Version Control -->
