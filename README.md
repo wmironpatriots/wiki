@@ -11,7 +11,7 @@ If you have no prior FRC programming expirence, we recommend that you start by r
 
 ## Contents
 ### ***Learning Course (WIP)***
-- [Preface [Start Here!]](learning_course/abc123.md)
+- [Preface **[Start Here!]**](learning_course/abc123.md)
     * [Section A: Java](learning_course/section_a/abc123.md):
         * [A.1 Java Exercise](learning_course/section_a/exercise.md)
     - Section B (releasing 10/25/25)
