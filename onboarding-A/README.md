@@ -5,4 +5,4 @@ To complete your java evaluation you must complete:
 
 Without passing code review for your solution, you will not be allowed to continue.
 
-**Please check the [onboarding-A](https://github.com/wmironpatriots/wiki/wiki/onboarding-b) page for more details**
+**Please check the [onboarding-A](https://github.com/wmironpatriots/wiki/wiki/onboarding-a) page for more details**
