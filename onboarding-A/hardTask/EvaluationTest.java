@@ -34,7 +34,7 @@ public class EvaluationTest {
 
     // Test valid move up
     outContent.reset();
-    controller.goToFloor(3);
+    controller.requestFloor(3);
     String expectedMoveUp =
         "Moving up... now at floor 2\nMoving up... now at floor 3\nArrived at floor 3\n";
     check(elevator.getCurrentFloor() == 3, "Should be at floor 3");
@@ -43,7 +43,7 @@ public class EvaluationTest {
 
     // Test valid move down
     outContent.reset();
-    controller.goToFloor(2);
+    controller.requestFloor(2);
     String expectedMoveDown = "Moving down... now at floor 2\nArrived at floor 2\n";
     check(elevator.getCurrentFloor() == 2, "Should be at floor 2");
     checkEquals(
@@ -51,7 +51,7 @@ public class EvaluationTest {
 
     // Test invalid move (below min)
     outContent.reset();
-    controller.goToFloor(0);
+    controller.requestFloor(0);
     String expectedInvalidLow = "Floor 0 is not a valid floor\n";
     check(elevator.getCurrentFloor() == 2, "Should remain at floor 2");
     checkEquals(
@@ -61,7 +61,7 @@ public class EvaluationTest {
 
     // Test invalid move (above max)
     outContent.reset();
-    controller.goToFloor(6);
+    controller.requestFloor(6);
     String expectedInvalidHigh = "Floor 6 is not a valid floor\n";
     check(elevator.getCurrentFloor() == 2, "Should remain at floor 2");
     checkEquals(
@@ -71,7 +71,7 @@ public class EvaluationTest {
 
     // Test move to max floor
     outContent.reset();
-    controller.goToFloor(5);
+    controller.requestFloor(5);
     String expectedToMax =
         "Moving up... now at floor 3\n"
             + "Moving up... now at floor 4\n"
@@ -85,7 +85,7 @@ public class EvaluationTest {
 
     // Test move to min floor
     outContent.reset();
-    controller.goToFloor(1);
+    controller.requestFloor(1);
     String expectedToMin =
         "Moving down... now at floor 4\n"
             + "Moving down... now at floor 3\n"
