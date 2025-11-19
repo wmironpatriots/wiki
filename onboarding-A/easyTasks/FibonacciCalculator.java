@@ -21,7 +21,7 @@ public class FibonacciCalculator {
             System.out.println("First " + n + " Fibonacci numbers:");
             for (int i = 0; i < n; i++) {
                 System.out.println("F(" + i + ") = " + fibNumbers[i]);
-            }z
+            }
         }
     }
 
