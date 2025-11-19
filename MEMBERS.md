@@ -1,2 +1,2 @@
 # Members
-* Srihari Kumariduraivan (Srithegread)
+Name: Srihari Kumariduraivan Username: Srithegread
