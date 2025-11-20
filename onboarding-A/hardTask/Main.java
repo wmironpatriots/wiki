@@ -6,8 +6,6 @@ public class Main {
         ElevatorController controller = new ElevatorController(elevator, 1, 5);
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Elevator instantiated at floor 1");
-
         while (true) {
             System.out.print("\nRequest floor: ");
             String input = scanner.nextLine().trim();

@@ -4,6 +4,7 @@ public class ElevatorController {
     private int maxFloor;
 
     public ElevatorController(Elevator elevator, int minFloor, int maxFloor) {
+        System.out.println("Elevator instantiated at floor 1\n");
         this.elevator = elevator;
         this.minFloor = minFloor;
         this.maxFloor = maxFloor;
