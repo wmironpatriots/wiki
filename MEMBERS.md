@@ -1,5 +1,5 @@
 # Members
 ```
-* Bharath Kanagal Raj (CRLgamer)
+* Bharath Kanagal Raj
 * Srihari Kumariduraivan (Srithegread)
 ```
