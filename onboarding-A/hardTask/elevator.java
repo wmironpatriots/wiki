@@ -1,4 +1,4 @@
-class Elevator{
+public class Elevator{
     int currentFloor = 1;
     public Elevator(int initalFloor){
         this.currentFloor = initalFloor;
