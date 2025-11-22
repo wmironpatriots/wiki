@@ -1,4 +1,4 @@
-class ElevatorController{
+public class ElevatorController{
     Elevator instance;
     int min;
     int max;
