@@ -10,7 +10,6 @@ public class ElevatorContoller{
   }
 
   public void goToFloor(int floor){
-    System.out.println("Request Floor " + floor);
     if(floor > maxFloor || floor < minFloor){
       System.out.println("Floor " + floor + " is not a valid floor.");
       return;
