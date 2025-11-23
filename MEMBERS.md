@@ -5,4 +5,5 @@
 * Daniel Jung (xxfloodxx)
 * Mace weingart (macetrap)
 * Bobby Zhang (bobz5460)
+* Bryan Chen (PeachyInc)
 ```
