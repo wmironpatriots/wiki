@@ -7,7 +7,7 @@ public class Fibonacci {
         for (int i = 2; i < 100; i++) {
             int previous = fibonacci.get(i-1);
             int lastprevious = fibonacci.get(i-2);
-            fibonacci.add(previous+ lastprevious);
+            fibonacci.add(previous + lastprevious);
         }
         System.out.println(fibonacci);
     }
