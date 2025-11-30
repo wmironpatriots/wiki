@@ -5,4 +5,5 @@
 * Daniel Jung (xxfloodxx)
 * Mace weingart (macetrap)
 * Bobby Zhang (bobz5460)
+* Noah Durst (Avenger623)
 ```
