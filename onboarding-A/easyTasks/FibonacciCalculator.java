@@ -8,8 +8,6 @@ public class FibonacciCalculator {
 
         for (int i = 2; i < n; i++) {
             fibNumbers[i] = fibNumbers[i - 1] + fibNumbers[i - 2];
-        }
-        for (int i = 2; i < n; i++) {
             System.out.println(fibNumbers[i]);
         }
     }
