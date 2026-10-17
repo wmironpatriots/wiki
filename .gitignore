@@ -1,1 +1,11 @@
-wiki.wiki
+# Java compilation and generated build files
+*.class
+**/build/
+**/.gradle/
+**/bin/
+**/out/
+
+# Local machine files
+.DS_Store
+Thumbs.db
+*.log
